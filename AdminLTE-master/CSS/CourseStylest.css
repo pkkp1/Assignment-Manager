@@ -1,0 +1,9 @@
+﻿.hidden {
+    display: none;
+}
+
+@media (max-width:400px) {
+    .stu-nme {
+        display: none;
+    }
+}

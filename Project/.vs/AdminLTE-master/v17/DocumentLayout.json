@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\project sem 6\\Projects\\Template\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\app_code\\daoclass.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\user_dash.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\user_dash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\admin-side\\course_master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\admin-side\\teacher_master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\admin-side\\assignment_master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\admin-side\\assignment_master.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|G:\\project sem 6\\Projects\\Template\\AdminLTE-master|g:\\project sem 6\\projects\\template\\adminlte-master\\admin-side\\reg_for_ad.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\admin-side\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\admin-side\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\ajax-scripts\\ajaxfileuploader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\course.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\user-side.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4079F3-A756-4557-915A-378178092DE9}|D:\\project sem 6\\Projects\\Template\\AdminLTE-master|G:\\project sem 6\\Projects\\Template\\adminlte-master\\course.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAOClass.vb",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\App_Code\\DAOClass.vb",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\App_Code\\DAOClass.vb",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\App_Code\\DAOClass.vb",
+              "RelativeToolTip": "..\\AdminLTE-master\\App_Code\\DAOClass.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-20T18:07:20.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user_dash.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\user_dash.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\user_dash.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\user_dash.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\user_dash.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T06:39:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\register.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T07:20:57.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "register.aspx.vb",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx.vb",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\register.aspx.vb",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx.vb",
+              "RelativeToolTip": "..\\AdminLTE-master\\register.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-11T07:21:01.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user_dash.aspx.vb",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\user_dash.aspx.vb",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\user_dash.aspx.vb",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\user_dash.aspx.vb",
+              "RelativeToolTip": "..\\AdminLTE-master\\user_dash.aspx.vb",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-11T07:13:06.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "reg_for_ad.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\reg_for_ad.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Admin-Side\\reg_for_ad.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\reg_for_ad.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Admin-Side\\reg_for_ad.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T06:26:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "register.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\register.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPnZM9S8NgEMf/TXVJfB0cdKiQxcE6OVSdHSOiDkIXZ7\u002BAmk8Q8Qs4ioubL9GsDi5iRadMLoEWrEJBK9qApo161zwxpomiPwj3Eu7/3N2TZBDDdd33wP0RWZa5NlFA07Qg6kRVVRiGAUVRWCRV4GD/MMh8sbi0wDYqInHmjziOA13X2f\u002BXAEEiRDhCdHm2bSM/nofv\u002B2i1/CD7HRrHsqx2B1Rcfmli\u002BbQGeaeMwlUflN0KimcPqL59ntK5qhBJFE\u002BZd5gZ6uZkvTjCluLp43vcvqbfLHewVnrExkQvVscUTgoopvz6ZR3ZbPK6MtQBtf0bjZUcPK8ZRJEdUPsEtS1aj1rhpyGN9nSxM7BX5Uf4wgo/DR6Btk8Lo5mpgE4VdvumgfOah1nnCKZpBmVtaAQWELdAC9Ovn0IBY7Ifm/YzLuaHITqNwxcsROg2TiouvyDmcjK2CoNcLP6\u002BOIlfYpy0YgD4ANtBrSGAiU8IAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.aspx.vb",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx.vb",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\register.aspx.vb",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\register.aspx.vb",
+              "RelativeToolTip": "..\\AdminLTE-master\\register.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVDhPY/z27dt/BhyAi4uLEcrECZiQFaXNOsHAFbsMTIMAyHB0DJZABugKYibs\u002B88QPAdMg/hOTk5g3NbWBlcD1QoGYC\u002BAbMUGYmyVGGYkmzH4\u002BfuB\u002BS4uLgwFBQVgNszlTGAekWDPnj0MEyZMgPIgAGzAt8VRcAyyFQRgtv/58xfMhwGQIRgA5jdk/3/5/OX/h/cfMTAoPJDDAWs0/vv7D8NmGAgKDmTYsmULIgxADBjHx8eH4dfP3zg1YwMkBSI2MAwMgOcDUGyAApEYgBwLKAZAmUQBmAEUAgYGAD7Gqti8PqzlAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment_master.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T06:26:23.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher_Master.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Teacher_Master.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Admin-Side\\Teacher_Master.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Teacher_Master.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Admin-Side\\Teacher_Master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T06:27:13.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "course_master.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\course_master.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Admin-Side\\course_master.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\course_master.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Admin-Side\\course_master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T06:27:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\login.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Admin-Side\\login.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\login.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Admin-Side\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPnZM9S8NgEMf/TXVJfB0cdKiQxcE6OVSdHSOiDkIXZ7\u002BAmk8Q8Qs4ioubL9GsDi5iRadMLoEWrEJBK9qApo161zwxpomiPwj3Eu7/3N2TZBDDdd33wP0RWZa5NlFA07Qg6kRVVRiGAUVRWCRV4GD/MMh8sbi0wDYqInHmjziOA13X2f\u002BXAEEiRDhCdHm2bSM/nofv\u002B2i1/CD7HRrHsqx2B1Rcfmli\u002BbQGeaeMwlUflN0KimcPqL59ntK5qhBJFE\u002BZd5gZ6uZkvTjCluLp43vcvqbfLHewVnrExkQvVscUTgoopvz6ZR3ZbPK6MtQBtf0bjZUcPK8ZRJEdUPsEtS1aj1rhpyGN9nSxM7BX5Uf4wgo/DR6Btk8Lo5mpgE4VdvumgfOah1nnCKZpBmVtaAQWELdAC9Ovn0IBY7Ifm/YzLuaHITqNwxcsROg2TiouvyDmcjK2CoNcLP6\u002BOIlfYpy0YgD4ANtBrSGAiU8IAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assignment_master.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Admin-Side\\Assignment_master.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPnZM9S8NgEMf/TXVJfB0cdKiQxcE6OVSdHSOiDkIXZ7\u002BAmk8Q8Qs4ioubL9GsDi5iRadMLoEWrEJBK9qApo161zwxpomiPwj3Eu7/3N2TZBDDdd33wP0RWZa5NlFA07Qg6kRVVRiGAUVRWCRV4GD/MMh8sbi0wDYqInHmjziOA13X2f\u002BXAEEiRDhCdHm2bSM/nofv\u002B2i1/CD7HRrHsqx2B1Rcfmli\u002BbQGeaeMwlUflN0KimcPqL59ntK5qhBJFE\u002BZd5gZ6uZkvTjCluLp43vcvqbfLHewVnrExkQvVscUTgoopvz6ZR3ZbPK6MtQBtf0bjZUcPK8ZRJEdUPsEtS1aj1rhpyGN9nSxM7BX5Uf4wgo/DR6Btk8Lo5mpgE4VdvumgfOah1nnCKZpBmVtaAQWELdAC9Ovn0IBY7Ifm/YzLuaHITqNwxcsROg2TiouvyDmcjK2CoNcLP6\u002BOIlfYpy0YgD4ANtBrSGAiU8IAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Default.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Admin-Side\\Default.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Admin-Side\\Default.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Admin-Side\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPnZM9S8NgEMf/TXVJfB0cdKiQxcE6OVSdHSOiDkIXZ7\u002BAmk8Q8Qs4ioubL9GsDi5iRadMLoEWrEJBK9qApo161zwxpomiPwj3Eu7/3N2TZBDDdd33wP0RWZa5NlFA07Qg6kRVVRiGAUVRWCRV4GD/MMh8sbi0wDYqInHmjziOA13X2f\u002BXAEEiRDhCdHm2bSM/nofv\u002B2i1/CD7HRrHsqx2B1Rcfmli\u002BbQGeaeMwlUflN0KimcPqL59ntK5qhBJFE\u002BZd5gZ6uZkvTjCluLp43vcvqbfLHewVnrExkQvVscUTgoopvz6ZR3ZbPK6MtQBtf0bjZUcPK8ZRJEdUPsEtS1aj1rhpyGN9nSxM7BX5Uf4wgo/DR6Btk8Lo5mpgE4VdvumgfOah1nnCKZpBmVtaAQWELdAC9Ovn0IBY7Ifm/YzLuaHITqNwxcsROg2TiouvyDmcjK2CoNcLP6\u002BOIlfYpy0YgD4ANtBrSGAiU8IAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AjaxFileUploader.js",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Ajax-Scripts\\AjaxFileUploader.js",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Ajax-Scripts\\AjaxFileUploader.js",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Ajax-Scripts\\AjaxFileUploader.js",
+              "RelativeToolTip": "..\\AdminLTE-master\\Ajax-Scripts\\AjaxFileUploader.js",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwCkAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADNSURBVDhPY2RAAt\u002B\u002BffsPZRIN4AaANX//zPBnTi7D/9unoaK4AbNnNgOTZxYDE5QPBsRqBoG/26eCaRQX/M7TBrP/Nx1mYODkBbORAWOpAZQFAayTrqK6AA6waIYBkCYYBgHsBhAAXFxcjDBMlgHIYBgYwEhK6gNFMyj0QYEHFYIYAIt/bIClYRcDo5A0w/93Txn\u002BNLhhGADxAp54/7d9GsP/O6fBNNbEBXIBSMGf2bkMoLyAEwA1s6ROZmBUMUX1AoggJRyQNVMBMDAAAAsiUM1xjO/HAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User-Side.master",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\User-Side.master",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\User-Side.master",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\User-Side.master",
+              "RelativeToolTip": "..\\AdminLTE-master\\User-Side.master",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABsSURBVDhPY6AUMH779u0/lE0WABvg4\u002BMD5ZIGtmzZwsAEZZMNKDaAAeQFJyen/x/efwRjZDY\u002BDFIH0ovhgnVr10NZxAG4AUHBgSTRMACPBVJtBhmENRbQbSAEqBcGMEB3F1CclCnOTBQCBgYARqRkPz8YS3oAAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "WhenOpened": "2024-03-11T06:26:01.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.aspx",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Course.aspx",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Course.aspx",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Course.aspx",
+              "RelativeToolTip": "..\\AdminLTE-master\\Course.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPnZM9S8NgEMf/TXVJfB0cdKiQxcE6OVSdHSOiDkIXZ7\u002BAmk8Q8Qs4ioubL9GsDi5iRadMLoEWrEJBK9qApo161zwxpomiPwj3Eu7/3N2TZBDDdd33wP0RWZa5NlFA07Qg6kRVVRiGAUVRWCRV4GD/MMh8sbi0wDYqInHmjziOA13X2f\u002BXAEEiRDhCdHm2bSM/nofv\u002B2i1/CD7HRrHsqx2B1Rcfmli\u002BbQGeaeMwlUflN0KimcPqL59ntK5qhBJFE\u002BZd5gZ6uZkvTjCluLp43vcvqbfLHewVnrExkQvVscUTgoopvz6ZR3ZbPK6MtQBtf0bjZUcPK8ZRJEdUPsEtS1aj1rhpyGN9nSxM7BX5Uf4wgo/DR6Btk8Lo5mpgE4VdvumgfOah1nnCKZpBmVtaAQWELdAC9Ovn0IBY7Ifm/YzLuaHITqNwxcsROg2TiouvyDmcjK2CoNcLP6\u002BOIlfYpy0YgD4ANtBrSGAiU8IAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.aspx.vb",
+              "DocumentMoniker": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Course.aspx.vb",
+              "RelativeDocumentMoniker": "..\\AdminLTE-master\\Course.aspx.vb",
+              "ToolTip": "G:\\project sem 6\\Projects\\Template\\AdminLTE-master\\Course.aspx.vb",
+              "RelativeToolTip": "..\\AdminLTE-master\\Course.aspx.vb",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAYwKoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVDhPY/z27dt/BhyAi4uLEcrECZiQFaXNOsHAFbsMTIMAyHB0DJZABugKYibs\u002B88QPAdMg/hOTk5g3NbWBlcD1QoGYC\u002BAbMUGYmyVGGYkmzH4\u002BfuB\u002BS4uLgwFBQVgNszlTGAekWDPnj0MEyZMgPIgAGzAt8VRcAyyFQRgtv/58xfMhwGQIRgA5jdk/3/5/OX/h/cfMTAoPJDDAWs0/vv7D8NmGAgKDmTYsmULIgxADBjHx8eH4dfP3zg1YwMkBSI2MAwMgOcDUGyAApEYgBwLKAZAmUQBmAEUAgYGAD7Gqti8PqzlAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-11T06:26:01.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
